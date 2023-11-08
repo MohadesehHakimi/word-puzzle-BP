@@ -1,6 +1,7 @@
 # Word Puzzle Game
 A little guessing game
 
+
 ## Description
 Word Puzzle Game is an interactive terminal-based guessing game written in C.
 It allows users to sign up, log in, and play a word puzzle challenge.
@@ -14,5 +15,10 @@ Players need to guess the correct word within a limited number of attempts.
     Guessing Mechanism: Players can input their guesses and receive feedback on whether the guess is correct or not.
     Mistake Limit: Players are allowed up to 5 mistakes for words with less than or equal to 8 characters, and 10 mistakes for words longer than 8 characters.
     Game Completion: If a player exceeds the mistake limit, the word "LOSER" is displayed, indicating the end of the game.
+
+## How to Play
+
+![Untitled design](https://github.com/MohadesehHakimi/word-puzzle-BP/assets/37903081/aaf25b9c-c07f-46ad-aa87-5ffc1c43ba0a)
+
 
 Enjoy the challenge and have fun playing the Word Puzzle Game!
