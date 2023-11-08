@@ -18,7 +18,6 @@ Players need to guess the correct word within a limited number of attempts.
 
 ## How to Play
 
-![Untitled design](https://github.com/MohadesehHakimi/word-puzzle-BP/assets/37903081/aaf25b9c-c07f-46ad-aa87-5ffc1c43ba0a)
-
+![Untitled design](https://github.com/MohadesehHakimi/word-puzzle-BP/assets/37903081/f78038f8-5439-479b-ad56-3b954526f6c5)
 
 Enjoy the challenge and have fun playing the Word Puzzle Game!
